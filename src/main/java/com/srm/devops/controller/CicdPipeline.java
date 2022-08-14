@@ -20,7 +20,7 @@ public class CicdPipeline {
 	@GetMapping("/webMethod")
 	public String webMethod()
 	{
-		return "Hello from Web application!!!";
+		return "Hello from Web application second commit!!!";
 	}
 	
 	
